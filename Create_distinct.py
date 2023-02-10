@@ -1,7 +1,6 @@
 import pandas as pd
 import os
 
-MODE = 'all'
 TEST = './Datasets/GermEval21_TestData.csv'
 TRAIN = './Datasets/GermEval21_TrainData.csv'
 
